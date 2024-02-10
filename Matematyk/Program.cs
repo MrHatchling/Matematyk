@@ -39,7 +39,7 @@
             }
             else
             {
-                Console.WriteLine("You are wrong, you idiot!");
+                Console.WriteLine("You are wrong, I'm afraid!");
             }
         }
     }
